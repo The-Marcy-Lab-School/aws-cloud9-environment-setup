@@ -1,6 +1,6 @@
 # Setting Up Our Development Environment
 
-For your first months at Marcy Lab School, you will be developing using Amazon Web Service (AWS) Cloud9. It will give all fellows and instructors a standard and consistent coding environment. Once you gain more coding experience and begin to create robust web applications, you will transition to developing on your local machines. 
+For your first months at Marcy Lab School, you will be developing using Amazon Web Service (AWS) Cloud9. It will give all fellows and instructors a standard and consistent coding environment. Once you gain more coding experience and begin to create robust web applications, you will transition to developing on your local machines.
 
 ## Objectives
 FWBAT...
@@ -59,7 +59,7 @@ FWBAT...
 ## Touring the IDE
 ### Exploring the User Interface
 
-![Cloud9 UI](./pictures/cloud9_ui.png)
+![Cloud9 UI](./assets/cloud9_ui.png)
 
 On the left, the Environment is where you can see the directories and files in your Cloud9 environment. You can right click in this area to manually create new files and folders.
 
@@ -69,7 +69,7 @@ Although you can create files and folder using the left side bar, developers who
 
 The first tab in your console is your terminal (command line interface). Type `pwd` and `ls` to see your working directory and view your files respectively. Since you'll be developing in this environment for a couple months, let's get organized. Create a folder called `Unit-0`, a place where you can save all your Unit 0 work.
 
-![terminal](./pictures/terminal.png)
+![terminal](./assets/terminal.png)
 
 ### Creating and opening a file
 
@@ -77,24 +77,34 @@ The first tab in your console is your terminal (command line interface). Type `p
 
 You need to restart your workspace, and you can do so by **refreshing the page**. Now, you can type `c9 <filename>` to open any file from the terminal. The file will appear in the Cloud9 panel. Open your new file with the command `c9 app.js`.
 
-![c9](./pictures/c9.png)
+![c9](./assets/c9.png)
 
 ### Running a JavaScript file
 
 Now that you can edit files, create a JavaScript function that will `console.log` "hello world". Be sure to invoked that function in your `app.js` file. Save the file using Control-S or Command-S on your keyboard. Next, type `node app.js` to run the JavaScript file. Node is the tool developers use to run JavaScript. Ensure that the string "hello world" is printed to your terminal.
 
-![js](./pictures/js.png)
+![js](./assets/js.png)
 
 ### Interacting with the built-in JavaScript console
 
 Click on the second tab of your console where it says "Immediate". This tab can be used as a JavaScript console. Create variables `firstName` and `lastName` and see if you can `console.log` your full name. Follow the example below:
 
-![console](./pictures/console.png)
+![console](./assets/console.png)
 
 **Note:** Every time you press enter, the JavaScript code is executed as a block. So you'll need to declared variables with `var` if you want their scope to persist between when you press "Enter". In order to write multiple JS lines at once, hold down "Shift" as you press "Enter" for a new line.
+
+### Enable AutoSave (Optional)
+
+Click on AWS Cloud9 from the menu bar and click on Preferences.
+
+![preferences](./assets/preferences.png)
+
+Navigate to EXPERIMENTAL. Choosing On Focus Change will save a file any time you click away from it.  
+
+![autosave](./assets/autosave.png)
 
 ### Additional Exploration
 
 Take some time to explore other features of Cloud 9. You can even change the color theme of your environment.
 
-![theme](./pictures/theme.png)
+![theme](./assets/theme.png)
