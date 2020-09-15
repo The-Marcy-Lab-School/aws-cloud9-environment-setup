@@ -11,7 +11,6 @@ FWBAT...
 * Server
 * Cloud Computing
 * Virtual Machine
-* IaaS - Infrastructure as a Service
 * AWS - Amazon Web Services
   - AWS EC2
   - AWS Cloud9
@@ -38,7 +37,7 @@ FWBAT...
   * An integrated development environment is an application that provides all the tools you need for software development in one location. They include a terminal, a text editor, and a graphical directory tree.
 * Instead of running your code on your physical computer, Cloud9 creates a **_virtual machine_** for your code to run on.
 * Virtual machines are AWS most popular product. They offer them through a service called **_EC2 or Elastic Cloud Compute_**.
-* Cloud9 and EC2 are just two of **over 100 services** that AWS offers to allow you to buid software, secure it, and deploy it to the world.
+* Cloud9 and EC2 are just two of **over 100 services** that AWS offers to allow you to build software, secure it, and deploy it to the world.
 * Their ecosystem is so large that they offer a suite of certifications that you can obtain to signal your experience to potential employers.
 
 ## Setting Up our Cloud9 Development Environment
