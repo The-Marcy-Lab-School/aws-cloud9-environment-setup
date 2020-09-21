@@ -29,12 +29,15 @@ For your first months at Marcy Lab School, you will be developing using Amazon W
 4. Once at the Cloud9 homepage, click 'Create Environment'
 5. Create your Cloud9 environment.
   * **Step 1: Name Environment**
+  
     Name: _firstName-marcylab_
     Description: This is the development environment for my Marcy Lab School projects and assignments.
   * **Step 2: Configure Settings**
+  
     Leave all defaults as they are and click 'Next Step'
   * **Step 3: Review**
-    Accept
+  
+    Create environment
 6. Wait a minute while the environment configures. Once it's loaded, **save the link to your bookmarks**
 
 ## Touring the IDE
