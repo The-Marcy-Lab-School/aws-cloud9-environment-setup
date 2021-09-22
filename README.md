@@ -31,6 +31,7 @@ For your first months at Marcy Lab School, you will be developing using Amazon W
   * **Step 1: Name Environment**
   
     Name: _yourFirstName-MarcyLab_
+    
     Description: This is the development environment for my Marcy Lab School projects and assignments.
   * **Step 2: Configure Settings**
   
