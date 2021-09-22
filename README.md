@@ -25,7 +25,7 @@ For your first months at Marcy Lab School, you will be developing using Amazon W
 ## Setting Up our Cloud9 Development Environment
 1. Log into your AWS account.
 2. Change your password.
-3. Once logged in, under "Find Services", type in "Cloud9".
+3. Once logged in, in the "Search for Services" search bar, type in "Cloud9".
 4. Once at the Cloud9 homepage, click 'Create Environment'
 5. Create your Cloud9 environment.
   * **Step 1: Name Environment**
