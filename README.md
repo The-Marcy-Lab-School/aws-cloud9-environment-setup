@@ -24,7 +24,7 @@ For your first months at Marcy Lab School, you will be developing using Amazon W
 
 ## Setting Up our Cloud9 Development Environment
 
-A Marcy Lab School staff member has sent you an email containing a the link to sign into your AWS account. Bookmark the sign in link, as it will be very useful in the future. The same email should also contain your username and a temporarly password.
+A Marcy Lab School staff member has sent you an email containing a the link to sign into your AWS account. **Bookmark this sign in link**, as it will be very useful in the future. The same email should also contain your username and a temporarly password.
 
 1. Log into your AWS account using the link and credentials in your email. 
 2. Change your password.
