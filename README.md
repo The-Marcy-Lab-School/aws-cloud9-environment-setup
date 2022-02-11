@@ -24,7 +24,7 @@ For your first months at Marcy Lab School, you will be developing using Amazon W
 
 ## Setting Up our Cloud9 Development Environment
 
-A Marcy Lab School staff member has sent you an email containing a the link to sign into your AWS account. The same email should also contain your username and a temporarly password.
+A Marcy Lab School staff member has sent you an email containing the link to sign into your AWS account. The same email should also contain your username and a temporary password.
 
 1. Log into your AWS account using the link and credentials in your email. 
 2. Change your password.
@@ -99,3 +99,9 @@ Navigate to EXPERIMENTAL. Choosing On Focus Change will save a file any time you
 Take some time to explore other features of Cloud 9. You can even change the color theme of your environment.
 
 ![theme](./assets/theme.png)
+
+# Closing Remarks
+
+The reason we are having you create an AWS account and do all of your coding in Cloud9 is because it is more beginner friendly than having to code directly on your computer. Cloud9 is a step up from a simple IDE like [Repl.it](https://replit.com/). With Cloud9, you can create an entire folder and file structure just like you can on a regular computer. You can also execute files, use the terminal to navigate your folders, and preview files like a regular computer. But most importantly, Cloud9 offers a consistent coding environment that you and your instructors can easily troubleshoot if you run into problems!
+
+For now, both you and your instructors will only be coding almost exclusively on AWS. Later on in the curriculum, once you gain more coding experience and begin to create robust web applications, you will transition to developing on your local computers. 
