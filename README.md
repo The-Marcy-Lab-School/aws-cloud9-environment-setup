@@ -23,7 +23,11 @@ For your first months at Marcy Lab School, you will be developing using Amazon W
 * Their ecosystem is so large that they offer a suite of certifications that you can obtain to signal your experience to potential employers.
 
 ## Setting Up our Cloud9 Development Environment
-1. Log into your AWS account.
+
+A Marcy Lab School staff member has sent you an email containing a the link to sign into your AWS account. Bookmark the sign in link, as it will be very useful in the future. The same email should also contain your username and a temporarly password.
+
+## Setting Up our Cloud9 Development Environment
+1. Log into your AWS account using the link and credentials in your email. 
 2. Change your password.
 3. Once logged in, in the "Search for Services" search bar, type in "Cloud9".
 4. Once at the Cloud9 homepage, click 'Create Environment'
