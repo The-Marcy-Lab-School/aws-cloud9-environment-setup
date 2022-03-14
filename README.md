@@ -84,7 +84,7 @@ Click on the second tab of your console where it says "Immediate". This tab can 
 
 **Note:** Every time you press enter, the JavaScript code is executed as a block. So you'll need to declared variables with `var` if you want their scope to persist between when you press "Enter". In order to write multiple JS lines at once, hold down "Shift" as you press "Enter" for a new line.
 
-### Enable AutoSave (Optional)
+### Enable AutoSave
 
 Click on AWS Cloud9 from the menu bar and click on Preferences.
 
