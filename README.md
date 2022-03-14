@@ -30,7 +30,7 @@ A Marcy Lab School staff member has sent you an email containing the link to sig
 2. Change your password.
 3. Once logged in, in the "Search for Services" search bar, type in "Cloud9".
 4. Once at the Cloud9 homepage, click 'Create Environment'
-5. Create your Cloud9 environment.
+5. Create your Cloud9 environment, this will act as **your virtual computer for all of your Marcy Lab work** for your first semester.
   * **Step 1: Name Environment**
   
     Name: _yourFirstName-MarcyLab_
