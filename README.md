@@ -58,7 +58,7 @@ On the left, the Environment is where you can see the directories and files in y
 
 Although you can create files and folder using the left side bar, developers who use the Command Line can create files and folders very efficiently.
 
-The first tab in your console is your terminal (command line interface). In your terminal, type `pwd` to see your working directory. Type `ls` to view your files. Since you'll be developing in this environment for a couple months, let's get organized. Create a folder called Unit-0 using the command 'mkdir Unit-0', a place where you can save all your Unit 0 work.
+The first tab in your console is your terminal (command line interface). In your terminal, type `pwd` and press Enter to see your working directory. Type `ls` and Enter to view your files. Since you'll be developing in this environment for a couple months, let's get organized. Create a folder called Unit-0 using the command `mkdir Unit-0`, a place where you can save all your Unit 0 work.
 
 ![terminal](./assets/terminal.png)
 
