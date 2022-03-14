@@ -58,13 +58,13 @@ On the left, the Environment is where you can see the directories and files in y
 
 Although you can create files and folder using the left side bar, developers who use the Command Line can create files and folders very efficiently.
 
-The first tab in your console is your terminal (command line interface). Type `pwd` and `ls` to see your working directory and view your files respectively. Since you'll be developing in this environment for a couple months, let's get organized. Create a folder called `Unit-0`, a place where you can save all your Unit 0 work.
+The first tab in your console is your terminal (command line interface). In your terminal, type `pwd` to see your working directory. Type `ls` to view your files. Since you'll be developing in this environment for a couple months, let's get organized. Create a folder called Unit-0 using the command 'mkdir Unit-0', a place where you can save all your Unit 0 work.
 
 ![terminal](./assets/terminal.png)
 
 ### Creating and opening a file
 
-`cd` into your new `Unit-0` folder and create a JavaScript file called app.js. Use the command `touch app.js`. Next, we are going to install some Cloud9 tools. Run `npm install -g c9` in the terminal. The npm install part of the command is installing a tool called c9, and the -g flag installs it globally on our Cloud9 environment.
+Next, type `cd Unit-0` to change directories your new `Unit-0` folder and create a JavaScript file called app.js. Use the command `touch app.js`. Next, we are going to install some Cloud9 tools. Type `npm install -g c9` in the terminal. The npm install part of the command is installing a tool called c9, and the -g flag installs it globally on our Cloud9 environment.
 
 You need to restart your workspace, and you can do so by **refreshing the page**. Now, you can type `c9 <filename>` to open any file from the terminal. The file will appear in the Cloud9 panel. Open your new file with the command `c9 app.js`.
 
