@@ -119,7 +119,7 @@ git config --global user.email "Your Github Email Address"
 git config --global credential.helper store
 ```
 
-2. Confirm that the configuration was successful by running `git config --global user.name`. The terminal should print out your name. Next, run `git config --global user.email`. The terminal should print our your email address.
+2. Confirm that the configuration was successful by running `git config --global user.name`. The terminal should print out your name. Next, run `git config --global user.email`. The terminal should print our your email address. If the user.name and/or user.email are incorrect, you can always reconfigure by repeating the steps noted. 
 
 ### Create a Repository on Github
 
@@ -141,7 +141,7 @@ While we're configuring GitHub, we should add a new SSH key.
 
 ![4](./assets/4.png)
 
-Run `cat ~/.ssh/id_rsa.pub` in your terminal. Copy the output (starting from `ssh-rsa`). You'll need it for the next step
+Run `cat ~/.ssh/id_rsa.pub` in your terminal. Copy the output (starting from `ssh-rsa` and every character that follows). You'll need it for the next step
 
 3. Navigate to the homepage of Github in your browser. Go to your account settings:
 
