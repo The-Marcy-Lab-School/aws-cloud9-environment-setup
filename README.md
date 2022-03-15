@@ -18,7 +18,7 @@
 
 # Setting Up Our Development Environment
 
-For your first months at Marcy Lab School, you will be developing using Amazon Web Service (AWS) Cloud9. It will give all fellows and instructors a standard and consistent coding environment. Once you gain more coding experience and begin to create robust web applications, you will transition to developing on your local machines.
+For your first months at Marcy Lab School, you will be developing using Amazon Web Service (AWS) Cloud9. It will give all fellows and instructors a standard and consistent coding environment. Once you gain more coding experience and begin to create robust web applications, you will transition to developing on your local machines. **You will only need to create one Cloud9 Environment** during your time at Marcy Lab. You will code all of your work and assignments on this virutal machine. 
 
 A Marcy Lab School staff member has sent you an email containing the link to sign into your AWS account. The same email should also contain your username and a temporary password.
 
@@ -44,6 +44,7 @@ A Marcy Lab School staff member has sent you an email containing the link to sig
 6. Wait a minute while the environment configures. Once it's loaded, **save the link to your bookmarks!** It will be very useful in the future.
 
 ## Touring the IDE
+
 ### Exploring the User Interface
 
 ![Cloud9 UI](./assets/cloud9_ui.png)
