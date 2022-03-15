@@ -63,7 +63,7 @@ The first tab in your console is your terminal (command line interface). In your
 
 Next, type `cd Unit-0` to change directories your new `Unit-0` folder and create a JavaScript file called app.js. Use the command `touch app.js`. Next, we are going to install some Cloud9 tools. Type `npm install -g c9` in the terminal. The npm install part of the command is installing a tool called c9, and the -g flag installs it globally on our Cloud9 environment.
 
-You need to restart your workspace, and you can do so by **refreshing the page**. Now, you can type `c9 <filename>` to open any file from the terminal. The file will appear in the Cloud9 panel. Open your new file with the command `c9 app.js`. **Double check that your directory structure looks like below.** You might not see the `.c9` folder since it's a hidden directory. 
+Now, you can type `c9 <filename>` to open any file from the terminal. The file will appear in the Cloud9 panel. Open your new file with the command `c9 app.js`. **Double check that your directory structure looks like below.** You might not see the `.c9` folder since it's a hidden directory. 
 
 ![c9](./assets/c9.png)
 
