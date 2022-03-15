@@ -8,11 +8,9 @@ For your first months at Marcy Lab School, you will be developing using Amazon W
 * Bonus: We get introduced to **cloud computing** the **AWS** ecosystem.
 * Cloud Computing has fundamentally changed the way that we design, deploy, and use software.
 * AWS is the global leader in **_cloud computing_** and it's not even close.
-  * Microsoft, IBM, and Google are the closest competitor and AWS has more market share than all of them combined.
 * Here's how Amazon define's cloud computing:
 > Cloud computing is the on-demand delivery of compute power, database, storage, applications, and other IT resources via the internet with pay-as-you-go pricing.
 > Whether you are using it to run applications that share photos to millions of mobile users or to support business critical operations, a cloud services platform provides rapid access to flexible and low cost IT resources. With cloud computing, you don’t need to make large upfront investments in hardware and spend a lot of time on the heavy lifting of managing that hardware. Instead, you can provision exactly the right type and size of computing resources you need to power your newest idea or operate your IT department. You can access as many resources as you need, almost instantly, and only pay for what you use.
-* To further illustrate, lets check out this video: [A Visit to the Cloud](https://youtu.be/94PO2-TL4Vs)
 
 ### Cloud9 and the AWS Ecosystem
 * Cloud9 is "a cloud-based integrated development environment (IDE) that you use to write, run, and debug code".
