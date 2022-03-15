@@ -102,14 +102,8 @@ Take some time to explore other features of Cloud 9. You can even change the col
 # Configure Your Github Account in AWS Cloud9
 
 You will be using Github individually and collaboratively. We will set up your Cloud9
-EC2 to be able to communicate with your Github account. You'll be able to copy code from a
-remote source (Github) and make changes to it on your personal virtual machine (Cloud9).
-
-## Objectives
-FWBAT...
-1. Clone Github repositories through their Cloud 9 Environment.
-2. Clone via HTTP and SSH.
-3. Push to and pull from a Github repository.
+virutal machine to be able to communicate with your Github account. You'll be able to clone code from a
+remote repo using SSH and make changes to it on your virtual machine.
 
 ### Create a Github Account
 
