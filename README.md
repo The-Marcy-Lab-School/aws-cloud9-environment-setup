@@ -137,7 +137,7 @@ While we're configuring GitHub, we should add a new SSH key.
 
 1. First, check if you already have an SSH key by running `cat ~/.ssh/id_rsa.pub` in your terminal. If the terminal prints out a long string of characters starting with ssh-rsa, you've already got a key.
 
-2. If the running previous step printed "No such file or directory", then run `ssh-keygen` in your temrinal to create a key. You should be prompted to select a file and passphrase for your new key. Leave everything blank and press enter for the default location and no passphrase. If you’re asked if you want to overwrite, then you already have an SSH key, and you do not want to overwrite it. If you've done every correctly, you should be something like this printed to your terminal:
+2. If the running previous step printed "No such file or directory", then run `ssh-keygen` in your terminal to create a key. You should be prompted to select a file and passphrase for your new key. Leave everything blank and press enter for the default location and no passphrase. If you’re asked if you want to overwrite, then you already have an SSH key, and you do not want to overwrite it. If you've done every correctly, you should be something like this printed to your terminal:
 
 ![4](./assets/4.png)
 
