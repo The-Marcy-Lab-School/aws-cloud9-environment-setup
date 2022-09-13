@@ -30,7 +30,9 @@ For now, both you and your instructors will only be coding almost exclusively on
 5. Create your Cloud9 environment, this will act as **your virtual computer for all of your Marcy Lab work** for your first semester.
   * **Step 1: Name Environment**
   
-    Name: _yourFirstName-MarcyLab_
+    Name: _FirstName-LastName-MarcyLab_ 
+    
+    > Example: Ben-Spector-MarcyLab
     
     Description: This is the development environment for my Marcy Lab School projects and assignments.
     
