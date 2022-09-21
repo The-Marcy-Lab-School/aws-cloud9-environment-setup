@@ -123,16 +123,6 @@ git config --global credential.helper store
 
 2. Confirm that the configuration was successful by running `git config --global user.name`. The terminal should print out your name. Next, run `git config --global user.email`. The terminal should print our your email address. If the user.name and/or user.email are incorrect, you can always reconfigure by repeating the steps noted. 
 
-### Create a Repository on Github
-
-1. Navigate to Github in the browser and log in. ON the left, click the button to create a new repository.
-
-![1](./assets/1.png)
-
-2. Name your repository `my-first-repo`. Choose to add a README.md file. Create the repository.
-
-![2](./assets/2.png)
-
 ### Add SSH Key
 
 While we're configuring GitHub, we should add a new SSH key. 
@@ -161,13 +151,25 @@ Put whatever you want for the title, but preferably something related to C9 sinc
 
 ![8](./assets/8.png)
 
+### Create a Repository on Github
+
+1. Navigate to Github in the browser and log in. ON the left, click the button to create a new repository.
+
+![1](./assets/1.png)
+
+2. Name your repository `my-first-repo`. Choose to add a README.md file. Create the repository.
+
+![2](./assets/2.png)
+
 ### Clone Using SSH
 
 1. Go back to your repository on Github. Then, click on the Code button and make sure the pop-up has "SSH" underlined and selected. The url should start with `git@github.com:...`. If this is not the case, click the link that say `SSH`. Copy that URL in the text box.
 
 ![13](./assets/13.png)
 
-2. Back in your Cloud9 terminal, make sure that you have a `Unit-0` folder and that your "working directory" is your `Unit-0` folder. If not, `cd Unit-0` to jump into it. Clone down the project using `git clone <ssh_url>`, using the URL you copied from the previous step. If asked, "Are you sure you want to continue connecting", type `yes`. 
+2. Back in your Cloud9 terminal, make sure that you have a `Unit-0` folder. If you do not have one, make one!
+
+3. Then, make sure that your "working directory" is your `Unit-0` folder. If not, `cd Unit-0` to jump into it. Clone down the project using `git clone <ssh_url>`, using the URL you copied from the previous step. If asked, "Are you sure you want to continue connecting", type `yes`. 
 
 3. Then change directory into your project `cd my-first-repo` or whatever you named your repository. 
 
