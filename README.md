@@ -179,3 +179,6 @@ git push
 ```
 6. Go back to Github to view your repository in the browser. Refresh the page and confirm that you see your newly added bio!
 
+# Final Step
+
+Once you have completed all the steps in these instructions, reach out to a technical instructor to verify you are finished. 
