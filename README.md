@@ -167,7 +167,7 @@ Put whatever you want for the title, but preferably something related to C9 sinc
 
 ![13](./assets/13.png)
 
-2. Back in your Cloud9 terminal, make sure that you have a `Unit-0` folder and that your "working directory" is your `Unit-0` folder. If not, `cd Unit-0` to jump into it. Clone down the project using `git clone <ssh_url>`, using the URL you copied from the previous step. If asked, "Are you sure you want to continue connecting", type `yes`. 
+2. Back in your Cloud9 terminal, make sure that you have a `Unit-0` folder and that your "working directory" is your `Unit-0` folder. If not, `cd Unit-0` to jump into it. Clone down the project using `git clone <ssh_url>`, replacing `<ssh_url>` with the URL you copied from the previous step. If asked, "Are you sure you want to continue connecting", type `yes`. 
 
 3. Then change directory into your project `cd my-first-repo` or whatever you named your repository. 
 
