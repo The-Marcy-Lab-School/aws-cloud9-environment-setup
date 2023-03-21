@@ -38,11 +38,8 @@ For now, both you and your instructors will only be coding almost exclusively on
     
   * **Step 2: Configure Settings**
   
-    For **Instance type**, choose **t3.small (2 GiB RAM + 2 vCPU)**. Leave all other settings as they are and click 'Next Step'.
-    
-  * **Step 3: Review**
-  
-    Create environment
+    For **Instance type**, choose **t3.small (2 GiB RAM + 2 vCPU)**. Leave all other settings as they are and click 'Create'.
+   
     
 6. Wait a minute while the environment configures. Once it's loaded, **save the link to your bookmarks!** It will be very useful in the future.
 
