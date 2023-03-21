@@ -109,7 +109,7 @@ remote repo using SSH and make changes to it on your virtual machine.
 
 ### Create a Github Account
 
-[Create a Github Account](https://github.com/join). If you already have one, you can skip to the next step.
+[Create a free Github Account](https://github.com/join). Remember the email and username that you enter. If you already have one, you can skip to the next step.
 
 ### Configure Github in the AWS Terminal
 
