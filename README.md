@@ -113,11 +113,11 @@ remote repo using SSH and make changes to it on your virtual machine.
 
 ### Configure Github in the AWS Terminal
 
-1. Open up your Cloud9 environment. Run the following lines in the terminal, **replacing the username and email with your Github username and email**:
+1. Open up your Cloud9 environment. Run the following lines in the terminal, **replacing the YourGithubUsername and YourGithubEmailAddress with your Github username and email**:
 
 ```sh
-git config --global user.name "Your Github Username"
-git config --global user.email "Your Github Email Address"
+git config --global user.name "YourGithubUsername"
+git config --global user.email "YourGithubEmailAddress"
 git config --global credential.helper store
 ```
 
